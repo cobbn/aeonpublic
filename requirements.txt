@@ -42,4 +42,5 @@ uvloop
 xattr
 yt-dlp
 #git+https://github.com/5hojib/pyrogram.git
-pyrofork==2.2.11
+#pyrofork==2.2.11
+pyroblack
